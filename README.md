@@ -59,12 +59,14 @@ source download_dataset.sh
 ```
 
 ## Cite
-
-```@article{hasani_closed-form_2022,
+```
+@article {
+	hasani_closed-form_2022,
 	title = {Closed-form continuous-time neural networks},
 	journal = {Nature Machine Intelligence},
 	author = {Hasani, Ramin and Lechner, Mathias and Amini, Alexander and Liebenwein, Lucas and Ray, Aaron and Tschaikowski, Max and Teschl, Gerald and Rus, Daniela},
-  issn = {2522-5839},
+    issn = {2522-5839},
 	month = nov,
 	year = {2022},
 }
+```
