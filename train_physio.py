@@ -312,7 +312,7 @@ if __name__ == "__main__":
     elif args.no_gate:
         score(BEST_NO_GATE)
     elif args.use_ltc:
-        score(LTC_TEST)
+        score(BEST_LTC)
     elif args.use_mixed:
         score(BEST_MIXED)
     else:
